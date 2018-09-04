@@ -1,0 +1,6 @@
+g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\bin\Debug\FindNetworkDrive.exe.config
+g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\bin\Debug\FindNetworkDrive.exe
+g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\bin\Debug\FindNetworkDrive.pdb
+g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\obj\Debug\FindNetworkDrive.csprojResolveAssemblyReference.cache
+g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\obj\Debug\FindNetworkDrive.exe
+g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\obj\Debug\FindNetworkDrive.pdb
