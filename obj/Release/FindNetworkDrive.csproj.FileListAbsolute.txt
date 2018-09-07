@@ -1,6 +1,0 @@
-g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\bin\Release\FindNetworkDrive.exe.config
-g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\bin\Release\FindNetworkDrive.exe
-g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\bin\Release\FindNetworkDrive.pdb
-g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\obj\Release\FindNetworkDrive.exe
-g:\users\clemens\documents\visual studio 2015\Projects\FindNetworkDrive\obj\Release\FindNetworkDrive.pdb
-G:\Users\Clemens\documents\visual studio 2015\Projects\FindNetworkDrive\obj\Release\FindNetworkDrive.csprojResolveAssemblyReference.cache
